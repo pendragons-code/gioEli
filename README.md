@@ -8,3 +8,9 @@ morse code to stage1 on letter
 giogio: cXdlcnR5dWlvcA==
 elieli: YXNkZmdoamts
 ```
+
+# TODO:
+```
+letter
+eli
+```
